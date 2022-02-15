@@ -6,7 +6,7 @@ interface LogoIconProps {
 
 export const LogoIcon: React.FC<LogoIconProps> = (props: LogoIconProps) => (
     <svg className={props.className} version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="118.000000pt" height="20.000000pt" viewBox="0 0 118.000000 20.000000"
+ width="60.000000pt" height="20.000000pt" viewBox="0 0 60.000000 20.000000"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by potrace 1.10, written by Peter Selinger 2001-2011
