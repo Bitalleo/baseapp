@@ -1,4 +1,4 @@
-export const PG_TITLE_PREFIX = 'DoneX';
+export const PG_TITLE_PREFIX = 'Bitalleo';
 
 export const pgRoutes = (isLoggedIn: boolean, isLight?: boolean): string[][] => {
     const routes = [
